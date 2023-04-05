@@ -1,0 +1,14 @@
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.exe
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.deps.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.runtimeconfig.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.runtimeconfig.dev.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.csproj.AssemblyReference.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.AssemblyInfoInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.AssemblyInfo.cs
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.genruntimeconfig.cache

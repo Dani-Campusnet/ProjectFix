@@ -1,0 +1,14 @@
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.exe
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.deps.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.runtimeconfig.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.runtimeconfig.dev.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.csproj.AssemblyReference.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.AssemblyInfoInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.AssemblyInfo.cs
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.csproj.CoreCompileInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.genruntimeconfig.cache

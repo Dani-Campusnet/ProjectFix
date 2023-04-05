@@ -1,0 +1,14 @@
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\bin\Debug\netcoreapp3.1\08-DNI.exe
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\bin\Debug\netcoreapp3.1\08-DNI.deps.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\bin\Debug\netcoreapp3.1\08-DNI.runtimeconfig.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\bin\Debug\netcoreapp3.1\08-DNI.runtimeconfig.dev.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\bin\Debug\netcoreapp3.1\08-DNI.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\bin\Debug\netcoreapp3.1\08-DNI.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\obj\Debug\netcoreapp3.1\08-DNI.csproj.AssemblyReference.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\obj\Debug\netcoreapp3.1\08-DNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\obj\Debug\netcoreapp3.1\08-DNI.AssemblyInfoInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\obj\Debug\netcoreapp3.1\08-DNI.AssemblyInfo.cs
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\obj\Debug\netcoreapp3.1\08-DNI.csproj.CoreCompileInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\obj\Debug\netcoreapp3.1\08-DNI.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\obj\Debug\netcoreapp3.1\08-DNI.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DNI\obj\Debug\netcoreapp3.1\08-DNI.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\bin\Debug\netcoreapp3.1\02-Calculator.exe
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\bin\Debug\netcoreapp3.1\02-Calculator.deps.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\bin\Debug\netcoreapp3.1\02-Calculator.runtimeconfig.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\bin\Debug\netcoreapp3.1\02-Calculator.runtimeconfig.dev.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\bin\Debug\netcoreapp3.1\02-Calculator.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\bin\Debug\netcoreapp3.1\02-Calculator.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\obj\Debug\netcoreapp3.1\02-Calculator.csproj.AssemblyReference.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\obj\Debug\netcoreapp3.1\02-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\obj\Debug\netcoreapp3.1\02-Calculator.AssemblyInfoInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\obj\Debug\netcoreapp3.1\02-Calculator.AssemblyInfo.cs
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\obj\Debug\netcoreapp3.1\02-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\obj\Debug\netcoreapp3.1\02-Calculator.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\obj\Debug\netcoreapp3.1\02-Calculator.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Calculator\obj\Debug\netcoreapp3.1\02-Calculator.genruntimeconfig.cache

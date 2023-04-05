@@ -1,0 +1,14 @@
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\bin\Debug\netcoreapp3.1\09-DayOfTheWeek.exe
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\bin\Debug\netcoreapp3.1\09-DayOfTheWeek.deps.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\bin\Debug\netcoreapp3.1\09-DayOfTheWeek.runtimeconfig.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\bin\Debug\netcoreapp3.1\09-DayOfTheWeek.runtimeconfig.dev.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\bin\Debug\netcoreapp3.1\09-DayOfTheWeek.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\bin\Debug\netcoreapp3.1\09-DayOfTheWeek.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\obj\Debug\netcoreapp3.1\09-DayOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\obj\Debug\netcoreapp3.1\09-DayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\obj\Debug\netcoreapp3.1\09-DayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\obj\Debug\netcoreapp3.1\09-DayOfTheWeek.AssemblyInfo.cs
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\obj\Debug\netcoreapp3.1\09-DayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\obj\Debug\netcoreapp3.1\09-DayOfTheWeek.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\obj\Debug\netcoreapp3.1\09-DayOfTheWeek.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\DayOfTheWeek\obj\Debug\netcoreapp3.1\09-DayOfTheWeek.genruntimeconfig.cache

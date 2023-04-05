@@ -1,0 +1,14 @@
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\bin\Debug\netcoreapp3.1\04-Replace.exe
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\bin\Debug\netcoreapp3.1\04-Replace.deps.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\bin\Debug\netcoreapp3.1\04-Replace.runtimeconfig.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\bin\Debug\netcoreapp3.1\04-Replace.runtimeconfig.dev.json
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\bin\Debug\netcoreapp3.1\04-Replace.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\bin\Debug\netcoreapp3.1\04-Replace.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\obj\Debug\netcoreapp3.1\04-Replace.csproj.AssemblyReference.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\obj\Debug\netcoreapp3.1\04-Replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\obj\Debug\netcoreapp3.1\04-Replace.AssemblyInfoInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\obj\Debug\netcoreapp3.1\04-Replace.AssemblyInfo.cs
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\obj\Debug\netcoreapp3.1\04-Replace.csproj.CoreCompileInputs.cache
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\obj\Debug\netcoreapp3.1\04-Replace.dll
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\obj\Debug\netcoreapp3.1\04-Replace.pdb
+C:\Users\Yandrak\Desktop\Campusnet\m5\M05_UF2_P2_ProjectFix-master\Replace\obj\Debug\netcoreapp3.1\04-Replace.genruntimeconfig.cache
